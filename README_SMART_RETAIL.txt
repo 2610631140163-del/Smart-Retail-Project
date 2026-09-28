@@ -62,3 +62,9 @@ VALIDASI STOK
 - Mengecek stok sebelum transaksi
 - Jumlah pembelian tidak boleh melebihi stok
 - Stok berkurang otomatis setelah transaksi
+
+RIWAYAT TRANSAKSI
+- Menampilkan ID transaksi
+- Menampilkan tanggal transaksi
+- Menampilkan total pembayaran
+- Menyimpan detail transaksi
