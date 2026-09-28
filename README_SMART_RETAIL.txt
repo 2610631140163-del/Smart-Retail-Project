@@ -51,3 +51,9 @@ FITUR TRANSAKSI
 - Perhitungan subtotal dan total
 - Pembayaran
 - Perhitungan kembalian
+
+FITUR TRANSAKSI
+- Keranjang belanja
+- Perhitungan subtotal dan total
+- Pembayaran
+- Perhitungan kembalian
