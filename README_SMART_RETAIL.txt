@@ -45,3 +45,9 @@ FITUR KELOLA PRODUK
 - Lihat produk
 - Update produk
 - Hapus produk
+
+FITUR TRANSAKSI
+- Keranjang belanja
+- Perhitungan subtotal dan total
+- Pembayaran
+- Perhitungan kembalian
