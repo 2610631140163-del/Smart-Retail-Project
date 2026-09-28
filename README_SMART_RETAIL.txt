@@ -57,3 +57,8 @@ FITUR TRANSAKSI
 - Perhitungan subtotal dan total
 - Pembayaran
 - Perhitungan kembalian
+
+VALIDASI STOK
+- Mengecek stok sebelum transaksi
+- Jumlah pembelian tidak boleh melebihi stok
+- Stok berkurang otomatis setelah transaksi
