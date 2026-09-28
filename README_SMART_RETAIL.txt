@@ -35,3 +35,8 @@ FITUR:
 - Laporan penjualan
 - Produk terlaris
 - Peringatan stok kurang dari 10
+FITUR LOGIN
+- Username admin: admin
+- Username kasir: kasir
+- Hak akses dibedakan berdasarkan role admin dan kasir.
+- Password digunakan untuk proses autentikasi pengguna.
