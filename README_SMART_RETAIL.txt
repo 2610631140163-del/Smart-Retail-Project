@@ -68,3 +68,9 @@ RIWAYAT TRANSAKSI
 - Menampilkan tanggal transaksi
 - Menampilkan total pembayaran
 - Menyimpan detail transaksi
+
+LAPORAN PENJUALAN
+- Total transaksi
+- Total pendapatan
+- Produk terlaris
+- Peringatan stok kurang dari 10
