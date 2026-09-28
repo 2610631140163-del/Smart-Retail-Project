@@ -40,3 +40,8 @@ FITUR LOGIN
 - Username kasir: kasir
 - Hak akses dibedakan berdasarkan role admin dan kasir.
 - Password digunakan untuk proses autentikasi pengguna.
+FITUR KELOLA PRODUK
+- Tambah produk
+- Lihat produk
+- Update produk
+- Hapus produk
